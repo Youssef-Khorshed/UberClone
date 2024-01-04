@@ -7,7 +7,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_2/Core/theme/firebaseoption.dart';
 import 'Core/app.dart';
 import 'Core/depndancyinjection.dart' as db;
-import 'package:cloud_firestore/cloud_firestore.dart';
 
 void main() async {
   await intialization();
