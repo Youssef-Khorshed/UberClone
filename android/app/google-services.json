@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509700412711",
+    "project_id": "jotrip-1e5c3",
+    "storage_bucket": "jotrip-1e5c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509700412711:android:d73d7af66166aff2c70502",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc7CoECKIyNnFszeirokH0ZYpnwcYi35k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
